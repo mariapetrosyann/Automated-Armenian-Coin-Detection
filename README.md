@@ -50,6 +50,11 @@ The goal of this project is to develop an accurate and efficient model for recog
 1. Open the `coins_detection_CNN.ipynb` file in a Jupyter Notebook environment.
 2. Follow the steps in the notebook to load the dataset, train, and test the CNN model.
 
+## Results
+
+Here is an example of the results produced by the YOLO model for coin detection in images:
+
+![YOLO Coin Detection Example](.jpg/coins_detected.jpg)
 
 ## Future Enhancements
 
